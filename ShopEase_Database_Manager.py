@@ -118,3 +118,5 @@ while True:
 mycursor.close()
 mydb.close()
 print("Database connection closed.")
+
+
