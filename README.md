@@ -1,1 +1,3 @@
 # ShopEasy-Database-Manager
+
+ShopEase Database Manager is a user-friendly application designed to simplify the management of shop-related records within a MySQL database. ﻿ This tool allows users to perform essential database operations such as adding, displaying, searching, updating, and deleting shop records with ease. ﻿ With an intuitive menu-driven interface, users can efficiently manage shop information, including shop numbers, names, products, price ranges, and offers. ﻿ Ideal for small businesses and retailers, ShopEase Database Manager ensures that maintaining and organizing shop data is both straightforward and efficient.
